@@ -15,3 +15,20 @@ The U.S. Fish and Wildlife Service uses the following data life cycle:
 * Access 
 * Evaluate
 * Archive
+---
+## The U.S. Geological Survey (USGS)
+The USGS uses the data life cycle below:
+
+
+* Plan
+* Acquire
+* Process
+* Analyze
+* Preserve
+* Publish/share
+  
+Several cross-cutting or overarching activities are also performed during each stage of their life cycle:
+
+Describe (metadata and documentation)
+Manage quality
+Backup and secure
