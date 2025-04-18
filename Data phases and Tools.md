@@ -19,7 +19,6 @@ The U.S. Fish and Wildlife Service uses the following data life cycle:
 ## The U.S. Geological Survey (USGS)
 The USGS uses the data life cycle below:
 
-
 * Plan
 * Acquire
 * Process
@@ -32,3 +31,33 @@ Several cross-cutting or overarching activities are also performed during each s
 * Describe (metadata and documentation)
 * Manage quality
 * Backup and secure
+---
+## Financial institutions
+Financial institutions may take a slightly different approach to the data life cycle as described in 
+The Data Life Cycle, an article in Strategic Finance magazine:
+
+* Capture
+* Qualify
+* Transform
+* Utilize
+* Report
+* Archive
+* Purge
+  
+---
+
+## Harvard Business School (HBS)
+One final data life cycle informed by Harvard University research has eight stages:
+
+* Generation
+* Collection
+* Processing
+* Storage 
+* Management
+* Analysis
+* Visualization
+* Interpretation
+
+---
+
+### Data management universal principle : Govern how data is handled so that it is accurate, secure, and available to meet your organization's needs
