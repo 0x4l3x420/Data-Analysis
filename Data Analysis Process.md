@@ -93,3 +93,12 @@ This process appears to have three or four more steps than the previous models. 
 
 ---
 
+# Analytical thinking
+5 Aspects of analytical thinking
+ * visualization
+ * strategy
+ * problem-orientation
+ * correlation
+ * big-picture 
+ * detail-oriented thinking
+
