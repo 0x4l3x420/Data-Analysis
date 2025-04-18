@@ -61,3 +61,34 @@ One final data life cycle informed by Harvard University research has eight stag
 ---
 
 ### Data management universal principle : Govern how data is handled so that it is accurate, secure, and available to meet your organization's needs
+
+---
+# Spreadsheets
+To collect and organize data, structure data in a meaningful way. 
+
+* Collect, store, organize, and sort information
+* Identify patterns and piece the data together in a way that works for each specific data project
+* Create excellent data visualizations, like graphs and charts.
+---
+# Databases and query languages 
+Collection of structured data stored in a computer system.
+
+* Allow analysts to isolate specific information from a database(s)
+* Make it easier for you to learn and understand the requests made to databases
+* Allow analysts to select, create, add, or download data from a database for analysis
+---
+# Visualization tools
+Two popular visualization tools are Tableau and Looker
+* Turn complex numbers into a story that people can understand 
+
+* Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies  
+
+* Have multiple features 
+
+             - Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and   
+
+                worksheets 
+
+             - Looker communicates directly with a database, allowing you to connect your data right to the visual 
+
+                 tool you choose 
