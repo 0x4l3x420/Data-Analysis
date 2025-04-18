@@ -1,12 +1,12 @@
 # Data-Analysis
 
-## Whats Data Analysis ?
-The collection, transformation, adn organization of data in order to draw conclusions, make predictions, and drive informed decision making. 
+## What's Data Analysis ?
+The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making. 
 
 ![DataAnalysis1](https://github.com/user-attachments/assets/1a4e2480-689c-4da2-9217-f493138ca590)
 
 
-## Data-Analzsys and analzthical thinking :
+## Data-Analysis and analytical thinking :
 
 * Define key concepts involved in data analytics including data, data analysis, and data ecosystem
 * Discuss the use of data in everyday life decisions
