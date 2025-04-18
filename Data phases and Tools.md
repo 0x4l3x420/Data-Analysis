@@ -5,3 +5,13 @@
  * Analyze: Use the data to solve problems, make decisions, and support business goals.
  * Archive: Keep relevant data stored for long-term and future reference.
  * Destroy: Remove data from storage and delete any shared copies of the data.
+ ---
+## U.S. Fish and Wildlife Service
+The U.S. Fish and Wildlife Service uses the following data life cycle:
+
+* Plan
+* Acquire
+* Maintain
+* Access 
+* Evaluate
+* Archive
