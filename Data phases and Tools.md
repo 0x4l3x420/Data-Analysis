@@ -29,6 +29,6 @@ The USGS uses the data life cycle below:
   
 Several cross-cutting or overarching activities are also performed during each stage of their life cycle:
 
-Describe (metadata and documentation)
-Manage quality
-Backup and secure
+* Describe (metadata and documentation)
+* Manage quality
+* Backup and secure
