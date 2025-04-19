@@ -91,4 +91,12 @@ Two popular visualization tools are Tableau and Looker
 
              - Looker communicates directly with a database, allowing you to connect your data right to the visual 
 
-                 tool you choose 
+                 tool you choose
+  ---
+# Spreadsheets
+ Main features of a spreadsheet: cells, rows, and columns.
+ * Attribute is a characteristic or quality of data used to label a column in a table. Attributes are referred to as column names, column labels, headers, or the header row.
+ * Observation includes all of the attributes for something contained in a row of a data table.
+ * Formula is a set of instructions that performs a specific action using the data in a spreadsheet.
+Spreadsheet resources : [Google Sheets Training and Help](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1) / [Google Sheets Quick Tips](https://support.google.com/a/users/answer/9300022) / [Microsoft Excel for Windows Training](https://support.microsoft.com/en-us/excel)
+---
