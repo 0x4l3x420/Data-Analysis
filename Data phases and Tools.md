@@ -125,3 +125,17 @@ Can you use  SELECT * ?
 In the example, if you replace SELECT field1 with SELECT * , you would be selecting all of the columns in the table instead of the field1 column only. From a syntax point of view, it is a correct SQL statement, but you should use the asterisk * sparingly and with caution.  Depending on how many columns a table has, you could be selecting a tremendous amount of data. Selecting too much data can cause a query to run slowly.
 
 ---
+# Steps to plan a data visualization
+Data analysts use lots of different tools and methods to visualize and share their data.
+
+Step 1: Explore the data for patterns
+Step 2: Plan your visuals
+Step 3: Create your visuals
+
+Data visualization toolkit
+* You can use the visualizations tools in your spreadsheet to create simple visualizations such as line and bar charts.
+
+* You can use more advanced tools such as Tableau that allow you to integrate data into dashboard-style visualizations. 
+
+* If you’re working with the programming language R you can use the visualization tools in RStudio.
+![image](https://github.com/user-attachments/assets/6adac8e7-3840-431a-a66d-040fb3143613)
