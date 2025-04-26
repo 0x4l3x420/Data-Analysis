@@ -101,7 +101,7 @@ You can think of it as supersize spreadsheets. A query is a request for data or 
 The SELECT, FROM, and WHERE clauses are the essential building blocks of SQL queries. Queries with multiple fields will become simpler after you practice writing your own SQL queries later in the program.
 ![query](https://github.com/user-attachments/assets/de627d57-2fe1-4372-b7d1-1996aded58cf)
 
-![SQL Cheat Sheet](https://www.genome.gov/)
+![SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 : For more advanced learners, go through this handy 3-page resource to gain an overview of additional SQL functions and formulas. By the time you are finished looking through the cheat sheet, you will know a lot more about the various SQL techniques and will be prepared to use it for business analysis and other tasks.
 
 ---
