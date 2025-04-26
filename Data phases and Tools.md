@@ -100,3 +100,8 @@ Two popular visualization tools are Tableau and Looker
  * Formula is a set of instructions that performs a specific action using the data in a spreadsheet.
 Spreadsheet resources : [Google Sheets Training and Help](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1) / [Google Sheets Quick Tips](https://support.google.com/a/users/answer/9300022) / [Microsoft Excel for Windows Training](https://support.microsoft.com/en-us/excel)
 ---
+# SQL (Structured Query Language)
+You can think of it as supersize spreadsheets. A query is a request for data or information from a database.
+The SELECT, FROM, and WHERE clauses are the essential building blocks of SQL queries. Queries with multiple fields will become simpler after you practice writing your own SQL queries later in the program.
+![query](https://github.com/user-attachments/assets/de627d57-2fe1-4372-b7d1-1996aded58cf)
+
