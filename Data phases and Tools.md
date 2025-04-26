@@ -128,9 +128,9 @@ In the example, if you replace SELECT field1 with SELECT * , you would be select
 # Steps to plan a data visualization
 Data analysts use lots of different tools and methods to visualize and share their data.
 
-Step 1: Explore the data for patterns
-Step 2: Plan your visuals
-Step 3: Create your visuals
+Step 1: Explore the data for patterns<br />
+Step 2: Plan your visuals<br />
+Step 3: Create your visuals<br />
 
 Data visualization toolkit
 * You can use the visualizations tools in your spreadsheet to create simple visualizations such as line and bar charts.
