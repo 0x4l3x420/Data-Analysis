@@ -97,8 +97,7 @@ Spreadsheet resources : [Google Sheets Training and Help](https://support.google
 ---
 # SQL(Structured Query Language)
 
-You can think of it as supersize spreadsheets. A query is a request for data or information from a database.
-The SELECT, FROM, and WHERE clauses are the essential building blocks of SQL queries. Queries with multiple fields will become simpler after you practice writing your own SQL queries later in the program.
+SQL queries use SELECT, FROM, and WHERE to specify the data to be returned from the query. Capitalization, indentation, and semicolons are useful for making your SQL queries easier to read. In addition, comments can be added to explain queries to others.
 ![query](https://github.com/user-attachments/assets/de627d57-2fe1-4372-b7d1-1996aded58cf)
 
 [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
