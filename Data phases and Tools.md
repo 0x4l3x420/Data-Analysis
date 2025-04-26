@@ -139,3 +139,8 @@ Data visualization toolkit
 
 * If you’re working with the programming language R you can use the visualization tools in RStudio.
 ![image](https://github.com/user-attachments/assets/6adac8e7-3840-431a-a66d-040fb3143613)
+## Visualization software
+### Tableau
+Tableau is a popular data visualization tool that lets you pull data from nearly any system and turn it into compelling visuals or actionable insights. The platform offers built-in visual best practices, which makes analyzing and sharing data fast, easy, and (most importantly) useful. 
+### Programming language (R with RStudio) 
+A lot of data analysts work with a programming language called R. Most people who work with R end up also using RStudio, an integrated developer environment (IDE), for their data visualization needs. As with Tableau, you can create dashboard-style data visualizations using RStudio.
