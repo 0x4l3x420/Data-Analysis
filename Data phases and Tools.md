@@ -43,9 +43,7 @@ The Data Life Cycle, an article in Strategic Finance magazine:
 * Report
 * Archive
 * Purge
-  
 ---
-
 ## Harvard Business School (HBS)
 One final data life cycle informed by Harvard University research has eight stages:
 
@@ -57,11 +55,8 @@ One final data life cycle informed by Harvard University research has eight stag
 * Analysis
 * Visualization
 * Interpretation
-
 ---
-
 ### Data management universal principle : Govern how data is handled so that it is accurate, secure, and available to meet your organization's needs
-
 ---
 # Spreadsheets
 To collect and organize data, structure data in a meaningful way. 
@@ -92,7 +87,7 @@ Two popular visualization tools are Tableau and Looker
              - Looker communicates directly with a database, allowing you to connect your data right to the visual 
 
                  tool you choose
-  ---
+---
 # Spreadsheets
  Main features of a spreadsheet: cells, rows, and columns.
  * Attribute is a characteristic or quality of data used to label a column in a table. Attributes are referred to as column names, column labels, headers, or the header row.
@@ -104,4 +99,5 @@ Spreadsheet resources : [Google Sheets Training and Help](https://support.google
 You can think of it as supersize spreadsheets. A query is a request for data or information from a database.
 The SELECT, FROM, and WHERE clauses are the essential building blocks of SQL queries. Queries with multiple fields will become simpler after you practice writing your own SQL queries later in the program.
 ![query](https://github.com/user-attachments/assets/de627d57-2fe1-4372-b7d1-1996aded58cf)
+---
 
