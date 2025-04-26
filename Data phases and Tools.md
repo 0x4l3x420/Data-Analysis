@@ -89,15 +89,35 @@ Two popular visualization tools are Tableau and Looker
                  tool you choose
 ---
 # Spreadsheets
- Main features of a spreadsheet: cells, rows, and columns.
+Main features of a spreadsheet: cells, rows, and columns.
  * Attribute is a characteristic or quality of data used to label a column in a table. Attributes are referred to as column names, column labels, headers, or the header row.
  * Observation includes all of the attributes for something contained in a row of a data table.
  * Formula is a set of instructions that performs a specific action using the data in a spreadsheet.
 Spreadsheet resources : [Google Sheets Training and Help](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1) / [Google Sheets Quick Tips](https://support.google.com/a/users/answer/9300022) / [Microsoft Excel for Windows Training](https://support.microsoft.com/en-us/excel)
 ---
-# SQL (Structured Query Language)
+# SQL(Structured Query Language)
+
 You can think of it as supersize spreadsheets. A query is a request for data or information from a database.
 The SELECT, FROM, and WHERE clauses are the essential building blocks of SQL queries. Queries with multiple fields will become simpler after you practice writing your own SQL queries later in the program.
 ![query](https://github.com/user-attachments/assets/de627d57-2fe1-4372-b7d1-1996aded58cf)
 ---
+## WHERE conditions
+The SELECT clause identifies the column you want to pull data from by name, field1, and the FROM clause identifies the table where the column is located by name, table. Finally, the WHERE clause narrows your query so that the database returns only the data with an exact value match or the data that matches a certain condition that you want to satisfy. 
 
+Example, if you are looking for a specific customer with the last name Chavez, the WHERE clause would be: 
+
+WHERE field1 = 'Chavez'
+
+However, if you are looking for all customers with a last name that begins with the letters “Ch," the WHERE clause would be:
+
+WHERE field1 LIKE 'Ch%'
+
+You can conclude that the LIKE clause is very powerful because it allows you to tell the database to look for a certain pattern! The percent sign % is used as a wildcard to match one or more characters. In the example above, both Chavez and Chen would be returned. Note that in some databases an asterisk * is used as the wildcard instead of a percent sign %.
+
+---
+## SELECT all columns
+Can you use  SELECT * ?
+
+In the example, if you replace SELECT field1 with SELECT * , you would be selecting all of the columns in the table instead of the field1 column only. From a syntax point of view, it is a correct SQL statement, but you should use the asterisk * sparingly and with caution.  Depending on how many columns a table has, you could be selecting a tremendous amount of data. Selecting too much data can cause a query to run slowly.
+
+---
