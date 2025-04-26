@@ -35,3 +35,8 @@ Present findings to decision-makers through a report, presentation, or data visu
 
 ### ACT PHASE 
 Implementing a new business strategy, making changes to a website, or any other action that solves the initial problem. 
+
+---
+
+![image](https://github.com/user-attachments/assets/e4113da9-28f9-42de-94dc-936bacfc7009)
+
