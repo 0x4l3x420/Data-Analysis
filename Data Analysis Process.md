@@ -102,3 +102,7 @@ This process appears to have three or four more steps than the previous models. 
  * big-picture 
  * detail-oriented thinking
 
+---
+
+Data analysts typically work with six problem types
+![image](https://github.com/user-attachments/assets/87d6d7ab-a107-4409-a97f-601edc33dce8)
