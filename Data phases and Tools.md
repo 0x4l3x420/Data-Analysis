@@ -150,9 +150,7 @@ A lot of data analysts work with a programming language called R. Most people wh
 # The beauty of dashboards
 
 | Benefits | For data analysts | For stakeholders |
-
 |----------|----------|----------|
-
 | Centralization | Share a single source of data with all stakeholders | Work with a comprehensive view of data, initiatives, objectives, projects, processes, and more |
 | Visualization | Show and update live, incoming data in real time* | Spot changing trends and patterns more quickly |
 | Insightfulness | Pull relevant information from different datasets | Understand the story behind the numbers to keep track of goals and make data-driven decisions |
