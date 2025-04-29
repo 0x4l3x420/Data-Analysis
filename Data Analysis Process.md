@@ -106,4 +106,5 @@ This process appears to have three or four more steps than the previous models. 
 ## Data analysts typically work with six problem types
 ![image](https://github.com/user-attachments/assets/87d6d7ab-a107-4409-a97f-601edc33dce8)
 
-![image](https://github.com/user-attachments/assets/2bc4975c-6b93-49df-922d-508819766b43)
+![image](https://github.com/user-attachments/assets/88d61b4c-de6a-4073-9ee6-4cb48fa925d5)
+
