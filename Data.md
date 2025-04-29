@@ -1,7 +1,7 @@
 # Big and small data
 
 | Small Data | Big Data |
-|-----|-----|-----|
+|----------|----------|
 | Describes a dataset made up of specific metrics over a short, well-defined time period | Describes large, less-specific datasets that cover a long time period |
 | Usually organized and analyzed in spreadsheets | Usually kept in a database and queried |
 | Likely to be used by small and midsize businesses | Likely to be used by large organizations | 
