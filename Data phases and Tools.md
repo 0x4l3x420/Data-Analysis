@@ -149,7 +149,7 @@ A lot of data analysts work with a programming language called R. Most people wh
 
 # The beauty of dashboards
 
-Benefits | For data analysts | For stakeholders
+| Benefits | For data analysts | For stakeholders |
 
 |----------|----------|----------|
 
