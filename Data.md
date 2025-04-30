@@ -17,4 +17,5 @@
 | The amount of data | The different kinds of data  | How fast the data can be processed | The quality and reliability of the data |
 
 ---
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a8917418-4233-4715-a2ff-edd0cf2add97)
+
