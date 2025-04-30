@@ -51,3 +51,6 @@ The following table highlights the differences between structured and unstructur
 |----------------------------|---------------------------------------------------|-----------------------------------------------------------------------------|
 | Structured data | Data organized in a certain format, like rows and columns | <ul><li>Expense reports</li><li>Tax returns</li><li>Store inventory</li></ul> |
 | Unstructured data | Data that cannot be stored as columns and rows in a relational database.  | <ul><li>Social media posts </li><li>Emails </li><li>Videos</li></ul> |
+
+---
+
