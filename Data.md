@@ -15,3 +15,6 @@
 | Volume | Variety | Velocity | Veracity |
 |----------|----------|----------|----------|
 | The amount of data | The different kinds of data  | How fast the data can be processed | The quality and reliability of the data |
+
+---
+https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bG2cUYmWTg6tnFGJli4OAQ_29c5e99b864645df8cb1f3c5900b3c3e_DA_C3M1L3R2.png?expiry=1746144000000&hmac=a6CMac1jWVv6WPLjXXG-dDdrqHB2Wqo4F0LMQ1Nk148
