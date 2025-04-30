@@ -100,7 +100,7 @@ Spreadsheet resources : [Google Sheets Training and Help](https://support.google
 SQL queries use SELECT, FROM, and WHERE to specify the data to be returned from the query. Capitalization, indentation, and semicolons are useful for making your SQL queries easier to read. In addition, comments can be added to explain queries to others.
 ![query](https://github.com/user-attachments/assets/de627d57-2fe1-4372-b7d1-1996aded58cf)
 
-[SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+ [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 : For more advanced learners, go through this handy 3-page resource to gain an overview of additional SQL functions and formulas. By the time you are finished looking through the cheat sheet, you will know a lot more about the various SQL techniques and will be prepared to use it for business analysis and other tasks.
 
 ---
