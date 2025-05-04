@@ -19,3 +19,13 @@
 ---
 ![image](https://github.com/user-attachments/assets/a8917418-4233-4715-a2ff-edd0cf2add97)
 
+---
+
+| Wide data is preferred when   | Long data is preferred when  |
+|----------|----------|
+| Creating tables and charts with a few variables about each subject | Storing a lot of variables about each subject. For example, 60 years worth of interest rates for each bank |
+| Comparing straightforward line graphs | Performing advanced statistical analysis or graphing |
+
+---
+
+
