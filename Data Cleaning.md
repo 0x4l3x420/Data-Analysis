@@ -21,3 +21,4 @@ Dirty data is data that is incomplete, incorrect, or irrelevant to the problem y
 * Misleading variable labels (columns): Did you name your columns meaningfully?
 * Truncated data: Did you check for truncated or missing data that needs correction?
 * Business Logic: Did you check that the data makes sense given your knowledge of the business? 
+![image](https://github.com/user-attachments/assets/344a4a09-896b-47d1-80be-8c740b91bc93)
