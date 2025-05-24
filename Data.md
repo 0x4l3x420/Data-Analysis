@@ -27,5 +27,25 @@
 | Comparing straightforward line graphs | Performing advanced statistical analysis or graphing |
 
 ---
+# Sort data with SQL
+## Sort data by one column
+The ORDER BY command sorts data by column in a database. By default, the data is sorted in ascending order. 
 
+1. In the BigQuery Explorer pane, select the movie dataset, then the movies table. 
 
+2. Select the Preview tab from the Details pane.
+
+3. Select Query then In new tab and enter the following code into the query editor: 
+SELECT *
+FROM projectID.movie_data.movies
+ORDER BY `Release Date`;
+
+4. 4. Use the ORDER BY command to sort the data. Enter ORDER BY `Release Date`; (notice the back-ticks, which are used to capture a column name that contains a space) to sort by the Release Date column.
+
+5. Your code should now match this code block:
+
+6. SELECT *
+FROM projectID.movie_data.movies
+ORDER BY `Release Date`;
+
+7. Select RUN. The results return all the movies in the database sorted from oldest to newest.
