@@ -10,6 +10,10 @@
 
 ---
 
+# Data can be imported and combined in both spreadsheets and SQL databases. To import data into a spreadsheet, use the IMPORTRANGE function. To import data into a SQL table, use the INSERT INTO, SELECT, and WHERE commands. Use CONCATENATE to combine two or more data strings in spreadsheets. In SQL, use the CONCAT function to combine fields.
+
+---
+
 # The three (or four) V words for big data
 
 | Volume | Variety | Velocity | Veracity |
